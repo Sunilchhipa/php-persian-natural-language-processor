@@ -13,13 +13,13 @@
     "license": "GPLv3",
     "authors": [
         {
-            "name": "Mehrdad Dadkhah",
-            "email": "mehrdad@dadkhah.me"
+            "name": "Sunil Chhipa",
+            "email": "chhipa1991@gmail.com"
         }
     ],
     "autoload": {
 	    "psr-4": {
-		    "MehrdadDadkhah\\Language\\": "src/"
+		    "Sunilchhipa\\Language\\": "src/"
 	    }
     }
 }
